@@ -128,9 +128,3 @@ With the setup complete, you can now launch the application.
     * Check your operating system's privacy settings for microphone access.
 * **Error: `ModuleNotFoundError`**
     * This means a required package is missing. Make sure you have activated your virtual environment (`venv`) correctly before running `pip install -r requirements.txt`.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
